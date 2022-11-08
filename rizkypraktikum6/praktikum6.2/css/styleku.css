@@ -1,0 +1,79 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+
+h1{
+    color: #016FB9;
+    text-align: center;
+}
+
+#header{
+    background-color: #84D6EB;
+    text-align: center;
+}
+
+blockquote{
+    background-color: #016FB9;
+    border: 5px groove wheat ;
+    color: whitesmoke;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.nav ul li{
+    margin: 10px 25px ;
+}
+
+.jawa{
+    color: #016FB9;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.koleksi{
+    background-color: #84D6EB;
+    display: flex;
+    border: 15px #016FB9;
+    border-style: groove;
+}
+
+.promo{
+    text-align: center;
+}
+
+.promo h2{
+    background-color: #016FB9;
+        color: aliceblue;
+    border: 20px #016FB9 ;
+    border-style:groove
+    
+}
+
+.promo ol li {
+    display: contents;
+    list-style: none;
+    justify-content: center;
+    margin: 20px 30px;
+   
+}
+
+.promo h3{
+    justify-content: center;
+    color: blue;
+    border: dotted ;
+}
